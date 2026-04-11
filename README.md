@@ -33,10 +33,6 @@ o	Medal
 
 
 
-
-
-
-
 Steps of Transformation of data:
 o	In athelete event table, remove games column because year and season are given separately.
 o	Remove height and age because they are of no use in our aim.
@@ -48,8 +44,3 @@ o	Replace column names like:
 	Sex = Gender
 	M = Male and F= Female  (Click on M in Gender column then go to transform then on replace value).
 o	Check for the null value for each column (click on the icon present beside every column name then check . Country column have a null value click on null and then ok ).
-
-
-Overall dashboard:
- 
-
