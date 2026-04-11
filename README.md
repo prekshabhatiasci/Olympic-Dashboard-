@@ -49,30 +49,6 @@ o	Replace column names like:
 	M = Male and F= Female  (Click on M in Gender column then go to transform then on replace value).
 o	Check for the null value for each column (click on the icon present beside every column name then check . Country column have a null value click on null and then ok ).
 
-	Medals Won by gender %
-
-
-      
-
-
-	Male and female ratios by year
-    
-     
-
-
-	 Top 5 countries by medals
- 
-     
-
-	Top 5 Olympic medallists by total medals
-             
-
-	Total number of participating Countries
-
-       
-	Total number of sports
-                
-
 
 Overall dashboard:
  
